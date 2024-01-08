@@ -1,0 +1,6 @@
+BASE_URL="https://tobeto.com/giris"
+invalid_login_xlsx="data/invalid_login.xlsx"
+EMAİLNAME_XPATH="//*[@id='__next']/div/main/section/div/div/div[1]/div/form/input[1]"
+PASSWORD_XPATH="//*[@id='__next']/div/main/section/div/div/div[1]/div/form/input[2]"
+LOGIN_BUTTON_XPATH="//*[@id='__next']/div/main/section/div/div/div[1]/div/form/button"
+USERNAME_PASSWORD_DONT_MATCH="Epic sadface: Username and password do not match any user in this service"
